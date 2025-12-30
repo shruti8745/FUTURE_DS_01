@@ -1,26 +1,126 @@
-This project is an interactive E-commerce Sales Dashboard created using Power BI to analyze and visualize sales performance effectively.
+#📊 Power BI E-Commerce Sales Dashboard
+##🔍 Project Overview
 
-The dashboard provides key business insights such as:
+This project is based on 5 years of E-commerce sales data and was created during my internship at Future Intern.
+The objective of this project is to clean raw sales data, build an interactive Power BI dashboard, and generate meaningful sales and business insights to support decision-making.
 
-Total Sales, Revenue, and Quantity Sold
+#🛠 Tools & Technologies Used
 
-Sales trends over time
+*Power BI
 
-Product and category-wise performance
+*Power Query (ETL)
 
-Region/Store-wise sales analysis
+*Excel
 
-Interactive slicers for better filtering and drill-down analysis
+*DAX
 
-🛠 Tools & Skills Used
+#🔄 Data Cleaning & ETL Process
 
-Power BI
+The raw dataset contained multiple data quality issues, which were resolved using Power Query (ETL):
 
-Data Cleaning & Transformation
+*Cleaned messy and inconsistent user name values
 
-DAX Measures
+*Handled blank and missing cells
 
-Data Visualization & Dashboard Design
-🎯 Objective
+*Formatted date columns correctly
 
-To help stakeholders understand sales patterns, identify top-performing products and regions, and support data-driven decision-making through an intuitive dashboard.
+*Corrected data types for numerical calculations
+
+*Calculated Total Amount of Sales after cleaning
+
+After cleaning and transformation, the refined dataset was imported into Power BI for dashboard creation and analysis.
+
+##📈 Key Metrics Calculated
+
+*Total Sales Amount
+
+*Average of Total Sales
+
+*Total Quantity Sold
+
+*Sum of Quantity Sold
+
+##📊 Dashboard Visualizations
+
+#The dashboard includes the following visual elements:
+
+#Line Chart
+
+*Sum of Quantity Sold & Total Sales Amount by Payment Method
+
+#Waterfall Chart
+
+*Total Sales Amount by Product Category
+
+#Treemap
+
+*Quantity Sold by Product Brand
+
+#Pie Chart
+
+*Product Count by Delivery Status
+
+#Slicers
+
+*Month
+
+*Year
+
+#These slicers allow users to dynamically filter and analyze data across different time periods.
+
+🔎 Key Business Insights
+
+📅 Maximum sales recorded in 2022
+
+📉 Minimum sales recorded in 2024
+
+💳 Credit Card is the most used payment method
+
+💵 Cash is the least used payment method
+
+📦 Electronics is the most sold product category
+
+🏠 Home & Kitchen is the least sold product category
+
+🏅 Sports is the second most sold product category
+
+📆 October is the highest sales month
+
+❄️ February is the lowest sales month
+
+🏷️ Most demanded brands: CoreTech and ReadMore
+
+🚚 74.55% orders successfully delivered
+
+❌ 3.8% orders cancelled
+
+🔄 3.5% orders returned
+
+🌆 City with maximum transactions: Charlotte
+
+🌉 City with minimum transactions: San Diego
+
+📁 Files Included
+
+#Power BI Dashboard (.pbix)
+
+#Cleaned E-commerce Dataset
+
+#Dashboard Screenshots ()
+
+##🚀 Purpose of This Project
+
+This project was developed as part of my Data Analyst Internship at Future Intern to gain hands-on experience in:
+
+*Data cleaning using ETL
+
+*Data modeling and visualization
+
+*Extracting actionable business insights
+
+*Building professional dashboards in Power BI
+
+##📌 Conclusion
+
+This dashboard provides a clear overview of sales trends, customer behavior, product performance, and operational efficiency.
+It demonstrates my ability to work with real-world data and transform it into valuable insights using Power BI.
