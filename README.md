@@ -107,7 +107,8 @@ After cleaning and transformation, the refined dataset was imported into Power B
 
 #Cleaned E-commerce Dataset [https://github.com/shruti8745/FUTURE_DS_01/blob/main/e-commerce%20data.csv]
 
-#Dashboard [Screenshots] [https://github.com/shruti8745/FUTURE_DS_01/commit/b710f23fefb9021eb72766aa64d0553028901bb8]
+#Dashboard [Screenshots] <img width="1366" height="768" alt="e-commerce" src="https://github.com/user-attachments/assets/a9970c45-fb45-4789-b5dc-e672cec63a85" />
+
 
 ##🚀 Purpose of This Project
 
