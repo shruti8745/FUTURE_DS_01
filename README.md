@@ -7,27 +7,27 @@ The objective of this project is to clean raw sales data, build an interactive P
 
 **🛠 Tools & Technologies Used**
 
-*Power BI
+* Power BI
 
-*Power Query (ETL)
+* Power Query (ETL)
 
-*Excel
+* Excel
 
-*DAX
+* DAX
 
 **🔄 Data Cleaning & ETL Process**
 
 The raw dataset contained multiple data quality issues, which were resolved using Power Query (ETL):
 
-*Cleaned messy and inconsistent user name values
+* Cleaned messy and inconsistent user name values
 
-*Handled blank and missing cells
+* Handled blank and missing cells
 
-*Formatted date columns correctly
+* Formatted date columns correctly
 
-*Corrected data types for numerical calculations
+* Corrected data types for numerical calculations
 
-*Calculated Total Amount of Sales after cleaning
+* Calculated Total Amount of Sales after cleaning
 
 After cleaning and transformation, the refined dataset was imported into Power BI for dashboard creation and analysis.
 
@@ -37,9 +37,9 @@ After cleaning and transformation, the refined dataset was imported into Power B
 
 * Average of Total Sales
 
-_ Total Quantity Sold
+* Total Quantity Sold
 
-_ Sum of Quantity Sold
+* Sum of Quantity Sold
 
 # 📊 Dashboard Visualizations
 
@@ -110,7 +110,7 @@ These slicers allow users to dynamically filter and analyze data across differen
 <img width="1366" height="768" alt="e-comerce" src="https://github.com/user-attachments/assets/d31098bb-2ffc-45f7-aa35-78f5a9b5cec3" />
 
 
-# 🚀 Purpose of This Project
+# 🚀 Purpose of This Project 
 
 This project was developed as part of my Data Analyst Internship at Future Intern to gain hands-on experience in:
 
