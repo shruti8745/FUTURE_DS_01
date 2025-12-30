@@ -105,9 +105,9 @@ After cleaning and transformation, the refined dataset was imported into Power B
 
 #Power BI Dashboard (.pbix)https://github.com/shruti8745/FUTURE_DS_01/blob/main/E-commerce%20sales%20data.pbix
 
-#Cleaned E-commerce Dataset
+#Cleaned E-commerce Dataset [https://github.com/shruti8745/FUTURE_DS_01/blob/main/e-commerce%20data.csv]
 
-#Dashboard [Screenshots] https://github.com/shruti8745/FUTURE_DS_01/commit/b710f23fefb9021eb72766aa64d0553028901bb8
+#Dashboard [Screenshots] [https://github.com/shruti8745/FUTURE_DS_01/commit/b710f23fefb9021eb72766aa64d0553028901bb8]
 
 ##🚀 Purpose of This Project
 
