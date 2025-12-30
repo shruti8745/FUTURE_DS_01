@@ -103,7 +103,7 @@ After cleaning and transformation, the refined dataset was imported into Power B
 
 📁 Files Included
 
-#Power BI Dashboard (.pbix)
+#Power BI Dashboard (.pbix)https://github.com/shruti8745/FUTURE_DS_01/blob/main/E-commerce%20sales%20data.pbix
 
 #Cleaned E-commerce Dataset
 
