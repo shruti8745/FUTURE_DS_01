@@ -1,4 +1,5 @@
-#📊 Power BI E-Commerce Sales Dashboard
+###📊 Power BI E-Commerce Sales Dashboard
+
 ##🔍 Project Overview
 
 This project is based on 5 years of E-commerce sales data and was created during my internship at Future Intern.
